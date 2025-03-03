@@ -1,1 +1,1 @@
- [Apri la pagina HTML](file:///C:/Users/Renat/Desktop/giulio/mioprofilo.html)
+ [Apri la pagina HTML](https://raw.githubusercontent.com/stefanodigennaro/stefanodigennaro.github.io/refs/heads/main/mioprofilo.html)
