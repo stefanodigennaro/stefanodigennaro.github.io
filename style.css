@@ -1,0 +1,170 @@
+img{
+    position: absolute;
+    right:10%;
+    top:-240%;
+}
+
+h1 {
+  position: absolute; /* o right, o left */ 
+  left:40px;
+  color: #333;
+}
+
+h1{
+ position: absolute;
+ left:35px;
+ top:-40px;
+
+}
+
+button{
+    position: absolute;
+    top: 290px;
+    left: 385px;
+    width: min-content;
+    
+
+}
+
+button{
+    color: aqua;
+}
+
+image {
+    position: left
+}
+
+#two h1{
+
+    position: relative;
+    top: 0px;
+
+
+}
+
+#computer svg {
+
+    position: relative;
+    top:0px;
+    left:-30px;
+    color: white;
+}
+
+#computer p {
+
+    position: relative;
+    left: -30px;
+    opacity: 80%;
+    color: white;
+}
+
+#computer h3 {
+
+    position: relative;
+    left: -30px;
+    
+
+
+}
+
+
+#lock svg {
+
+    position: relative;
+    left: -30px;
+    color: white;
+}
+
+#lock h3 {
+
+    position: relative;
+    left: -30px;
+    color: white;
+}
+
+
+#lock p{
+
+    position: relative;
+    left: -30px;
+    color: white;
+    opacity: 80%
+}
+
+#key svg {
+
+    position: relative;
+    left: -30px;
+    color: white;
+
+}
+
+
+
+
+#key h3 {
+
+    position: relative;
+    left: -30px;
+    color: white;
+}
+
+#key p {
+
+    position: relative;
+    left: -8.5%;
+    color: white;
+    opacity: 80%;
+}
+
+#data svg {
+
+    position: relative;
+    left: -10%;
+    color: white;
+
+    
+
+}
+
+#data p {
+
+    position: relative;
+    left: -10%;
+    color: white;
+    opacity: 80%;
+
+
+}
+
+#data h3 {
+
+    position: relative;
+    left: -10%;
+    color: white;
+    
+}
+
+#three h1 {
+
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+#Social h2{
+
+    position: relative;
+    top: 100px;
+}
+
+.icons li {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    font-size: 3em;
+    top: 2em;
+    bottom: auto;
+}
+
